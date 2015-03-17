@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="KamiNuvini" APIVersion="9" Name="FindYourHealers" Description="Draws lines to all healers in your group when you are low on HP." Version="0.02">
+	<Form Name="FindYourHealers.xml"/>
+	<Script Name="Libs/GeminiAddon/GeminiAddon.lua" />
+	<Script Name="Libs/GeminiTimer/GeminiTimer-1.0.lua" />
+	<Script Name="Libs/GeminiGUI/GeminiGUI.lua"/>
+	<Script Name="DisplayLine.lua"/>
+    <Script Name="FindYourHealers.lua"/>
+</Addon>
